@@ -1,0 +1,40 @@
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Suma y Multiplicaciones\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\solie\OneDrive\Documentos\clones\clone1\Arreglos-sum-y-mult\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\Arreglos\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
